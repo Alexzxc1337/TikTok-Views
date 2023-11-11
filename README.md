@@ -1,13 +1,8 @@
-<h2 align="center">server: <a href="https://discord.gg/onlp">discord.gg/onlp</a></h2>
-
-<p align="center"> 
-<img src="https://global.tiktokworld21.com/images/TT_Logo.png"></img>
-</p>
 
 
 
 <p align="center"> 
-<img src="https://cdn.discordapp.com/attachments/979095432682676264/996481048605106186/unknown.png"></img>
+<img src="[https://cdn.discordapp.com/attachments/979095432682676264/996481048605106186/unknown.png](https://i.postimg.cc/8CVXLJb5/asds.png)"></img>
 </p>
 
 
