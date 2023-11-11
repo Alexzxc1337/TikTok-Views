@@ -2,16 +2,16 @@
 
 
 <p align="center"> 
-<img src="[https://cdn.discordapp.com/attachments/979095432682676264/996481048605106186/unknown.png](https://i.postimg.cc/8CVXLJb5/asds.png)"></img>
+<img src="https://i.imgur.com/03bCDzp.png"></img>
 </p>
 
 
 How to run:
 ```
-  1. Verify that you have pip and python installed => https://www.youtube.com/watch?v=dYfKJMPNMDw
+  1. Verify that you have pip and python installed
   2. Run this command in cmd: pip install requests bs4 cursor pystyle pillow
   3. replace the video id in config.json by yours
-  4. run the python file by double clicking on it or type: python viewbot.py
+  4. run the python file by double clicking on it or type: python tiktokviews.py
 ```
 
 Advantages:
@@ -21,8 +21,4 @@ Advantages:
   3.  Has dynamic views count running on TikTok API
   4.  mobile users can run it
 ```
-To come:
-```
-  1. Proxy support
-  3. Bot using freer api so 2x faster (freer api is gay)
-```
+
